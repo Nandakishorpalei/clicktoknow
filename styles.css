@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+
+}
+div{
+  height:25%;
+  width:25%;
+  margin-left:37.5%;
+  text-align: center;
+  border: 5px solid;
+  border-color: black;
+  background-color: #ff4c68;
+  color:#fff;
+}
